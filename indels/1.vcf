@@ -1,0 +1,4 @@
+##fileformat=VCFv4.0
+##fileDate=20140712
+##source=Atlas-Indel2 v1.4.3 r171
+##command="/hgsc_software/atlas2/Atlas2-1.4.7/Atlas-Indel3/Atlas-Indel2.rb -F -b /stornext/snfs100/next-gen/Illumina/Instruments/E00366/150904_E00366_0016_BHG7T2CCXX/Results/Project_150904_E00366_0016_BHG7T2CCXX/Sample_HG7T2CCXX-6/HG7T2VVXX-6.realigned.recal.bam -r /stornext/snfs0/hgsc-refs/Illumina/bwa_references/h/hg19/original/hg19.fa -s 14864-HUMAN -I -o /stornext/snfs100/next-gen/Illumina/Instruments/E00366/150904_E00366_0016_BHG7T2CCXX/Results/Project_150904_E00366_0016_BHG7T2CCXX/Sample_HG7T2CCXX-6/INDEL/HG7T2CCXX-6.INDELs.vcf -a /hgsc_software/HgV/HgV-v15.8//misc/Databases/SNP_VIPlist.bed"
